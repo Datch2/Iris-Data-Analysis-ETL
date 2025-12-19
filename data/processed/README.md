@@ -1,0 +1,1 @@
+Processed data: store cleaned, versioned datasets here or point to external storage. Use descriptive filenames with version/date.
